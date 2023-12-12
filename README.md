@@ -5,7 +5,9 @@
 </p>
 
 ## Overview
-This project aims to simulate a process scheduler utilizing various scheduling algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), and Priority Scheduling. The purpose is to visualize the scheduling of processes and compare the efficiency of these algorithms in managing the order and execution of processes within a computing environment
+This project aims to simulate a process scheduler utilizing various scheduling algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), and Priority Scheduling. The purpose is to visualize the scheduling of processes and compare the efficiency of these algorithms in managing the order and execution of processes within a computing environment.
+
+The project will be written in Python.
 
 ## Features
 This project will explore three different scheduling algorithms:
