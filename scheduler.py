@@ -1,11 +1,10 @@
 # The Process class represents a single process in the system.
 # Each process has a unique process id (pid), an arrival time, a burst time, a priority, and a remaining time.
 class Process:
-    def __init__(self, pid, arrival_time, burst_time, priority):
+    def __init__(self, pid, arrival_time, burst_time):
         self.pid = pid
         self.arrival_time = arrival_time
         self.burst_time = burst_time
-        self.priority = priority
         self.remaining_time = burst_time
 
 #The fcfs_scheduling function implements the first-come-first-serve scheduling algorithm.
